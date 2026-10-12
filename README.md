@@ -1,65 +1,46 @@
 # Hi, I'm cocomber1234 👋
 
-2nd Year BSIT Student at NEU
+2nd Year BSIT Student @ NEU
 
-I'm a student developer passionate about **AI, web development, and databases**. Currently building a **Digital Library System** while exploring machine learning applications and intelligent systems.
+I’m a student developer who loves turning ideas into real-world solutions 🚀. My focus is on AI 🤖, web development 🌐, and databases 🗄️, and right now I’m building a Digital Library System 📚 to apply everything I’m learning.
 
 ## About Me
 
-- 2nd Year Student @NEU BSIT
-- AI enthusiast exploring machine learning, neural networks, and data science
-- Web developer building full-stack applications
-- Database learner focused on data modeling and optimization
-- Currently building the **Digital Library System** project
-- Always experimenting with intelligent solutions to real-world problems
+- 🎓 2nd Year BSIT student
+- 🤖 AI enthusiast exploring machine learning and intelligent systems
+- 🌐 Web developer in training
+- 🗄️ Database learner focused on design and optimization
+- 🔍 Always building, learning, and improving
 
 ## Tech Stack
 
-### Languages
-- Java
-- Python (ML/AI focus)
-- JavaScript
-- SQL
-- HTML / CSS
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-### AI & Data Science
-- Machine Learning Fundamentals
-- Data Analysis & Processing
-- Neural Networks
-- Python Libraries (NumPy, Pandas, Scikit-learn)
+## Current Focus
 
-### Web & Database
-- Web Development Fundamentals
-- Database Design & SQL
-- REST APIs
-- Full-Stack Development
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- MySQL / Database Management
-- Jupyter Notebooks
+- AI and machine learning fundamentals
+- Web development
+- Database design and optimization
+- Building practical projects
 
 ## Featured Project
 
-### 🚀 Digital Library System
-An intelligent digital library platform combining **web development, database design, and AI-powered features**.
+### Digital Library System 📚
+A project focused on creating a smart digital library platform that combines web development, database design, and AI-inspired functionality.
 
-- **Status**: Currently Building
-- **Focus**: Full-stack development, smart database architecture, potential AI integration
-- **What I'm Learning**: System design, database optimization, backend development, intelligent search/recommendation systems
-
-## Current Learning Path
-
-- Deepening AI and machine learning fundamentals
-- Integrating AI capabilities into practical applications
-- Mastering database design for scalable systems
-- Building intelligent web solutions
+- Status: Currently Building
+- Focus: Full-stack development and database architecture
+- Learning: backend logic, scalable data models, and intelligent search concepts
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=dark)
-
----
-
-Thanks for visiting my profile. I'm actively building, learning, and exploring the intersection of AI and software development.
