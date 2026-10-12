@@ -2,62 +2,64 @@
 
 2nd Year BSIT Student at NEU
 
-I’m a student developer focused on learning AI, web development, and databases. I enjoy building projects, improving my skills, and turning ideas into practical solutions.
+I'm a student developer passionate about **AI, web development, and databases**. Currently building a **Digital Library System** while exploring machine learning applications and intelligent systems.
 
 ## About Me
 
 - 2nd Year Student @NEU BSIT
-- Focused on AI learning, web development, and database concepts
-- Currently building projects and sharpening technical fundamentals
-- Interested in solving real-world problems through code
-- Always learning, experimenting, and improving
+- AI enthusiast exploring machine learning, neural networks, and data science
+- Web developer building full-stack applications
+- Database learner focused on data modeling and optimization
+- Currently building the **Digital Library System** project
+- Always experimenting with intelligent solutions to real-world problems
 
 ## Tech Stack
 
 ### Languages
 - Java
-- HTML
-- CSS
+- Python (ML/AI focus)
 - JavaScript
-- Python
 - SQL
+- HTML / CSS
 
-### Tools & Learning Areas
+### AI & Data Science
+- Machine Learning Fundamentals
+- Data Analysis & Processing
+- Neural Networks
+- Python Libraries (NumPy, Pandas, Scikit-learn)
+
+### Web & Database
+- Web Development Fundamentals
+- Database Design & SQL
+- REST APIs
+- Full-Stack Development
+
+### Tools & Platforms
 - Git & GitHub
 - VS Code
-- MySQL / Database Design
-- Web Development Fundamentals
-- AI / Machine Learning Learning Path
+- MySQL / Database Management
+- Jupyter Notebooks
 
-## Current Focus
+## Featured Project
 
-- Learning AI and its practical applications
-- Strengthening my web development skills
-- Learning database design and management
-- Building personal projects to apply what I learn
+### 🚀 Digital Library System
+An intelligent digital library platform combining **web development, database design, and AI-powered features**.
 
-## Featured Projects
+- **Status**: Currently Building
+- **Focus**: Full-stack development, smart database architecture, potential AI integration
+- **What I'm Learning**: System design, database optimization, backend development, intelligent search/recommendation systems
 
-- [Project 1](#) — A project I’m building to apply my current learning
-- [Project 2](#) — Exploring ideas in web development and problem solving
-- [Project 3](#) — A project focused on learning by doing
+## Current Learning Path
 
-> More projects are currently being developed and refined.
+- Deepening AI and machine learning fundamentals
+- Integrating AI capabilities into practical applications
+- Mastering database design for scalable systems
+- Building intelligent web solutions
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=dark)
 
-## Connect
-
-- GitHub: [@cocomber1234](https://github.com/cocomber1234)
-- Open to collaboration, feedback, and project ideas
-- Best reached through GitHub for now
-
-## Fun Fact
-
-I enjoy learning by building, and I’m always looking for ways to turn curiosity into real projects.
-
 ---
 
-Thanks for visiting my profile. I’m still growing, learning, and building — and I’m excited to keep improving.
+Thanks for visiting my profile. I'm actively building, learning, and exploring the intersection of AI and software development.
