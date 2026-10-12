@@ -1,13 +1,16 @@
-# Hi, I'm Coco 👋
+# Hi, I'm cocomber1234 👋
 
-Welcome to my GitHub profile! I'm a developer who enjoys building practical, creative, and scalable solutions. I love learning new technologies, experimenting with ideas, and turning concepts into working projects.
+2nd Year BSIT Student at NEU
+
+I’m a student developer focused on learning AI, web development, and databases. I enjoy building projects, improving my skills, and turning ideas into practical solutions.
 
 ## About Me
 
-- Passionate about software development and problem solving
-- Interested in building meaningful tools and experiences
-- Always learning, improving, and exploring new ideas
-- Enjoy contributing to projects that combine creativity and technology
+- 2nd Year Student @NEU BSIT
+- Focused on AI learning, web development, and database concepts
+- Currently building projects and sharpening technical fundamentals
+- Interested in solving real-world problems through code
+- Always learning, experimenting, and improving
 
 ## Tech Stack
 
@@ -16,60 +19,45 @@ Welcome to my GitHub profile! I'm a developer who enjoys building practical, cre
 - HTML
 - CSS
 - JavaScript
-- TypeScript
 - Python
 - SQL
 
-### Tools & Frameworks
+### Tools & Learning Areas
 - Git & GitHub
 - VS Code
-- Spring Boot
-- React
-- Node.js
-- REST APIs
-- Databases
+- MySQL / Database Design
+- Web Development Fundamentals
+- AI / Machine Learning Learning Path
 
-### Currently Exploring
-- Full-stack development
-- Cloud and DevOps workflows
-- Automation and productivity tools
-- Clean architecture and maintainable code
+## Current Focus
+
+- Learning AI and its practical applications
+- Strengthening my web development skills
+- Learning database design and management
+- Building personal projects to apply what I learn
 
 ## Featured Projects
 
-- [Project Name](https://github.com/yourusername/project-name)  
-  Brief description of what the project does and why it matters.
+- [Project 1](#) — A project I’m building to apply my current learning
+- [Project 2](#) — Exploring ideas in web development and problem solving
+- [Project 3](#) — A project focused on learning by doing
 
-- [Project Name](https://github.com/yourusername/project-name)  
-  Brief description of your second project.
-
-- [Project Name](https://github.com/yourusername/project-name)  
-  Brief description of a third project you want to highlight.
+> More projects are currently being developed and refined.
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=dark)
 
-## Connect With Me
+## Connect
 
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Twitter / X: [@yourhandle](https://x.com/yourhandle)
-- Email: yourname@example.com
-
-## Current Focus
-
-I am currently focused on:
-
-- Building impactful projects
-- Strengthening my full-stack development skills
-- Learning modern tools and best practices
-- Improving problem-solving and code quality
+- GitHub: [@cocomber1234](https://github.com/cocomber1234)
+- Open to collaboration, feedback, and project ideas
+- Best reached through GitHub for now
 
 ## Fun Fact
 
-I enjoy turning ideas into real, useful solutions and I am always open to collaborating on exciting projects.
+I enjoy learning by building, and I’m always looking for ways to turn curiosity into real projects.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile. I’m still growing, learning, and building — and I’m excited to keep improving.
