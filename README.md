@@ -1,84 +1,46 @@
-# Marco Eduardo R. Asegurado 👾
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full-Stack+Developer;Always+learning+new+tech" alt="Typing SVG" />
+</div>
 
-<!-- ACTIVE HEADER: Neon bar (animated SVG) -->
 <p align="center">
-  <svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon bar header - Marco Eduardo R. Asegurado">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00f5ff">
-          <animate attributeName="stop-color" values="#00f5ff;#7c3aed;#00f5ff" dur="6s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#7c3aed">
-          <animate attributeName="stop-color" values="#7c3aed;#00f5ff;#7c3aed" dur="6s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-      <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="6" result="b"/>
-        <feMerge>
-          <feMergeNode in="b"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <rect width="100%" height="100%" fill="transparent"/>
-
-    <g transform="translate(40,30)">
-      <g id="bars" fill="url(#g1)" filter="url(#neonGlow)">
-        <rect x="0" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;64;18" dur="2.6s" begin="0s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;0;30" dur="2.6s" begin="0s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="110" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;50;18" dur="2.2s" begin="0.15s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;10;30" dur="2.2s" begin="0.15s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="220" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;72;18" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;-4;30" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="330" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;58;18" dur="2.4s" begin="0.45s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;6;30" dur="2.4s" begin="0.45s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="440" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;66;18" dur="2.6s" begin="0.6s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;-2;30" dur="2.6s" begin="0.6s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="550" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;52;18" dur="2.2s" begin="0.75s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;8;30" dur="2.2s" begin="0.75s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="660" y="30" width="80" height="18" rx="6">
-          <animate attributeName="height" values="18;70;18" dur="2.7s" begin="0.9s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="30;-6;30" dur="2.7s" begin="0.9s" repeatCount="indefinite"/>
-        </rect>
-      </g>
-
-      <g transform="translate(0,100)">
-        <text x="0" y="0" font-family="Courier New, Courier, monospace" font-size="20" fill="none" stroke="url(#g1)" stroke-width="1.6" style="letter-spacing:1">
-          Marco Eduardo R. Asegurado
-        </text>
-        <text x="0" y="0" font-family="Courier New, Courier, monospace" font-size="20" fill="url(#g1)" style="letter-spacing:1">
-          Marco Eduardo R. Asegurado
-        </text>
-      </g>
-    </g>
-  </svg>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-00d4ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js-8b5cf6?style=for-the-badge" />
 </p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
-## About
-- Short tagline: "Maybe this time"
-- Vibe: gaming · minimal
+<br>
 
-## Tech
-- Java
-- HTML
-- CSS
-- Markdown
+### Tech Stack
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- HTML / CSS
+- Git / GitHub
 
-(Kept minimal — no social links or featured projects per your note.)
+<br>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-34d399?style=flat-square" />
+</p>
+
+<style>
+  body {
+    background: #0b1020;
+  }
+  img {
+    max-width: 100%;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
