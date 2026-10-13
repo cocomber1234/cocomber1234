@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full-stuff" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full-stack" />
 </div>
 
 <p align="center">
@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/14373988.jpg" width="300" alt="Kang Haerin" />
-  <p><strong>Kang Haerin</strong></p>
+  <img src="https://wallpaperaccess.com/full/14373988.jpg" width="500" alt="Kang Haerin" />
+ 
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=ff6ec7&center=true&vCenter=true&width=500&lines=I+love+Kang+Haerin" alt="I love Kang Haerin" />
 </div>
