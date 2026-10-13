@@ -25,29 +25,6 @@ I’m a student developer who loves turning ideas into real-world solutions 🚀
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## Current Focus
-
-- AI and machine learning fundamentals
-- Web development
-- Database design and optimization
-- Building practical projects
-
-## Featured Projects
-
-### Digital Library System 📚
-A project focused on creating a smart digital library platform that combines web development, database design, and AI-inspired functionality.
-
-- Status: Currently Building
-- Focus: Full-stack development and database architecture
-- Learning: backend logic, scalable data models, and intelligent search concepts
-
-### Hope Inc. 🏫
-A school project focused on building a useful and meaningful solution through practical software development.
-
-- Status: School Project
-- Focus: Collaboration, real-world problem solving, and application development
-- Learning: project planning, teamwork, and turning ideas into working systems
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=dark)
