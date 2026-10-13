@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full-stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full+Stack+Learner" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,git" alt="Tech stack" />
+  <img src="https://raw.githubusercontent.com/cocomber1234/cocomber1234/main/tech-stack-animated.svg" alt="Animated tech stack" width="600" />
 </div>
 
 <br>
