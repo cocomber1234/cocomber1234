@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+cocomber1234!;I+build+things+with+code.;Full[..[...]
+
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20cocomber1234!;I%20build%20things%20with%20code.;Full%20Stack%20Learner" alt="typing" />
 </div>
 
 <p align="center">
