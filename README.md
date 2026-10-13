@@ -7,16 +7,10 @@
   <img src="https://img.shields.io/badge/UI-UX-ff6ec7?style=for-the-badge&logo=figma" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<br>
-
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,html,css,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,git" alt="Tech stack" />
 </div>
 
 <br>
